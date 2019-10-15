@@ -91,7 +91,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(state);
 
         // TODO: Replace with your Application ID
-        StartAppSDK.init(this, "ApplicationID", true);
+        StartAppSDK.init(this, "209741294", true);
 
         /*
          * Load Native Ad with the following parameters:
